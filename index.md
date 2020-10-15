@@ -1,6 +1,6 @@
 ## Welcome to my website
 
-![Prison Mike]("C:\Users\aaron\Pictures\Prisonmike.png")
+![Prison Mike](\C:\Users\aaron\Pictures\Prisonmike.png)
 
 ### Markdown
 
