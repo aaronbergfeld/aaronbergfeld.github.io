@@ -1,6 +1,6 @@
 ## Welcome to my website
 
-![Prison Mike](https://static.wikia.nocookie.net/theoffice/images/9/96/Prisonmike.png/revision/latest?cb=20100327171549)
+![Prison Mike](https://miro.medium.com/max/750/1*xDIevNE7HEMiJQVTYg0qDQ.png)
 
 # *Words to live by:*
 
